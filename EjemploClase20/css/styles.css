@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#contenedor{
+	background: green;
+	width: 90%;
+	margin: 0 auto;
+}
+header{
+	background: hotpink;
+	font-size: 50px;
+	color: #2b145f;
+	text-align: center;
+	width: 80%;
+	margin: 0 auto;
+}
+nav{
+	background: #10ceec;
+}
+section{
+	background: #10ec42;
+}
+aside{
+	background: #109eec;
+}
+footer{
+	background: #9973ec;
+}
